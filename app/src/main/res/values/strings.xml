@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCounter</string>
+    <string name="add_button">Add Counter</string>
+    <string name="clear_button">Clear Counter</string>
+</resources>
